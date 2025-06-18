@@ -1,5 +1,5 @@
 
-![Description](https://drive.google.com/file/d/1wBIqHADyi8Mw-a1Tb1YY_x0FdVWxEkJG/view?usp=drive_link)
+![rahul-mishra-7vNPUkY3gg4-unsplash](https://github.com/user-attachments/assets/0452eb86-8f8d-4097-939e-e3dcee47980a)
 
 Hi!, I'm Darío
 
