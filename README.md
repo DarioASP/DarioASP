@@ -22,3 +22,5 @@ LinkedIn: https://www.linkedin.com/in/darios%C3%A1nchez/
 
 Email: dario5feb6b@outlook.com
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DarioASP&theme=tokyonight)](https://git.io/streak-stats)
+
