@@ -1,5 +1,4 @@
-![github-header-image](https://github.com/user-attachments/assets/121d2374-c238-4893-bd50-e51e0ebeb4cd)
-
+![github-header-image (2)](https://github.com/user-attachments/assets/c4b13735-9755-4cfb-a98f-d178cbf98890)
 
 Hi!, I'm Darío
 
