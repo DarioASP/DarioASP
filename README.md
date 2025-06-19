@@ -1,7 +1,5 @@
 ![github-header-image (2)](https://github.com/user-attachments/assets/c4b13735-9755-4cfb-a98f-d178cbf98890)
 
-# Hi!, I'm Darío 👋
-
 I'm a Robotics and Digital Systems Engineering student at ITESM Puebla.  
 I love coding, especially when it involves hardware or real-world systems.
 
