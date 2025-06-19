@@ -1,5 +1,6 @@
 
-![rahul-mishra-7vNPUkY3gg4-unsplash](https://github.com/user-attachments/assets/0452eb86-8f8d-4097-939e-e3dcee47980a)
+<img src="https://github.com/user-attachments/assets/0452eb86-8f8d-4097-939e-e3dcee47980a" width="600" height="400"/>
+
 
 Hi!, I'm Darío
 
