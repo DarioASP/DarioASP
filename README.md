@@ -1,5 +1,4 @@
-![WhatsApp Image 2025-06-19 at 12 17 14 PM](https://github.com/user-attachments/assets/c734f8e7-1690-4885-a4e6-73775543e3a1)
-
+![github-header-image](https://github.com/user-attachments/assets/121d2374-c238-4893-bd50-e51e0ebeb4cd)
 
 
 Hi!, I'm Darío
