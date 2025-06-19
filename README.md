@@ -3,7 +3,7 @@
 
 Hi!, I'm Darío
 
-I'm a Robotics and Digital Systems Engineering student at ITESM Puebla. I love coding, especially when it involves hardware, logic challenges, or competitive programming.
+I'm a Robotics and Digital Systems Engineering student at ITESM Puebla. I love coding, especially when it involves hardware.
 
 ⚙️ Interests:
 
