@@ -31,4 +31,4 @@ I love coding, especially when it involves hardware or real-world systems.
 
 ---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DarioASP&theme=tokyonight)](https://git.io/streak-stats)
+
